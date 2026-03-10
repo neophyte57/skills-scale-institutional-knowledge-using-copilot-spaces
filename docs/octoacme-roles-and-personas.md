@@ -75,6 +75,25 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Additional Roles & Personas
+
+### Agile Coach
+Guides teams in Agile practices, coaching for process improvement, helping remove obstacles.
+**Interacts with:** Project Manager (on delivery cadence), Dev Team.
+
+### Risk Champion
+Identifies and monitors project risks, ensures mitigation actions.
+**Interacts with:** PM (escalates risks), All roles (risk awareness).
+
+### Stakeholder Liaison
+Bridges communication between project teams and stakeholders. Confirms requirements and feedback.
+**Interacts with:** Product Owner, Change Manager, external stakeholders.
+
+### Change Manager
+Owns change implementation, plans communication and impact, aligns the team.
+**Interacts with:** PM, Dev Team, Stakeholder Liaison, QA, all impacted parties.
+
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
