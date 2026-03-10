@@ -1,0 +1,9 @@
+# OctoAcme Project Management Processes
+
+OctoAcme employs a structured, iterative approach to project management designed to deliver customer value efficiently while promoting transparency, continuous improvement, and effective collaboration. The project lifecycle follows clear phases: Initiation, Planning, Execution, Release, and Retrospective. Each phase is supported by documentation and checklists to ensure clear deliverables and consensus before proceeding. Artifacts such as project charters, risk registers, and release plans provide visibility and help track progress, while regular meetings ensure stakeholder alignment.
+
+The methodology emphasizes clear roles and responsibilities: Project Managers coordinate delivery, Product Managers define outcomes and priorities, Developers build and test features, and QA/Testers validate quality. Responsibilities are specified to minimize ambiguity, with PMs managing risks and facilitating communication, PdMs steering priorities, and Developers ensuring code quality and test coverage. All roles help maintain documentation and focus on continuous improvement.
+
+Key workflows are built around frequent communication and iterative delivery. Daily standups and weekly syncs keep teams aligned and address blockers. Work is tracked via GitHub project boards with defined columns for work status, and pull request conventions ensure transparency, with automated tests and at least one approval required before merging. Risks are identified and escalated through clear paths, and stakeholder updates occur on a regular cadence.
+
+Quality assurance integrates automated and manual measures at all stages: code must pass automated tests, security scans, and manual QA before release. Critical flows are covered by end-to-end smoke tests. After every major milestone, a retrospective surfaces lessons learned and actionable improvements, building a culture of transparency, clarity, and ongoing enhancement across the team.
